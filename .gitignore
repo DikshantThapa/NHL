@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+gan_output/
+data_file.csv
+MNIST/
